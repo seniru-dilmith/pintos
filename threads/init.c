@@ -64,6 +64,7 @@ static char **read_command_line (void);
 static char **parse_options (char **argv);
 static void run_actions (char **argv);
 static void usage (void);
+void read_line(char line[], size_t size);
 
 #ifdef FILESYS
 static void locate_block_devices (void);
