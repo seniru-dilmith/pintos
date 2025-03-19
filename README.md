@@ -1,7 +1,5 @@
 # Pintos Project
 
-![Pintos OS](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Computer_screen_with_code.jpg/800px-Computer_screen_with_code.jpg)
-
 ## Overview
 Pintos is an educational operating system designed for teaching OS concepts. This repository contains my implementations and modifications for various Pintos labs.
 
